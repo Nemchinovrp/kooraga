@@ -1,5 +1,7 @@
 # Open source project
 
+## Used technology Angular 5
+
 ** Screenshots **
 
 ![Main page](screenshots/1.png)
