@@ -2,6 +2,8 @@
 
 ## Used technology Angular 5
 
+ [Official website of the musical group](https://www.kooraga.com)
+
 ** Screenshots **
 
 ![Main page](screenshots/1.png)
