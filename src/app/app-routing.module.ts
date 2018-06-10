@@ -8,7 +8,7 @@ import { FotoComponent }   from './foto/foto.component';
 import { VideoComponent }   from './video/video.component';
 
 const routes: Routes = [
-  { path: '', redirectTo: '/schedule', pathMatch: 'full' },
+  { path: '', redirectTo: '/about', pathMatch: 'full' },
   { path: 'about', component: AboutComponent },
   { path: 'contact', component: ContactComponent},
   { path: 'schedule', component: ScheduleComponent},
