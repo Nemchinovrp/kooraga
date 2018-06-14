@@ -10,6 +10,7 @@ import { ScheduleComponent } from './schedule/schedule.component';
 import { ThanksComponent } from './thanks/thanks.component';
 import { FotoComponent } from './foto/foto.component';
 import { VideoComponent } from './video/video.component';
+import { AudioComponent } from './audio/audio.component';
 
 
 @NgModule({
@@ -20,7 +21,8 @@ import { VideoComponent } from './video/video.component';
     ScheduleComponent,
     ThanksComponent,
     FotoComponent,
-    VideoComponent
+    VideoComponent,
+    AudioComponent
   ],
   imports: [
     BrowserModule,
